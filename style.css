@@ -1,0 +1,11 @@
+img{
+    height: 550px;
+    width: 300px;;
+}
+body{
+    background-color: aqua;
+}
+#family_member_name{
+    font-size: 50px;
+    color: red;
+}
